@@ -1,4 +1,4 @@
-# Aversarial-Multiple--Domain-Adaptation-for-Fault-Diagnosis
+# Aversarial-Multiple-Domain-Adaptation-for-Fault-Diagnosis
 ### This is an implementation  of single source multiple target domain adaptation for fault diagnosis
 - We conducted the experiements on two rela world datasets for fault diagnosis: CWRU dataset and KAt dataset.
 - You can download CWRU dataset from this link https://csegroups.case.edu/bearingdatacenter/pages/welcome-case-western-reserve-university-bearing-data-center-website
