@@ -1,6 +1,6 @@
 # Aversarial-Multiple-Domain-Adaptation-for-Fault-Diagnosis (AMDA) [[Paper](https://ieeexplore.ieee.org/abstract/document/9141312)]
 #### *by: Mohamed Ragab, Zhenghua Chen, Min Wu, Haoliang Li, Chee Keong Kwoh, Ruqiang Yan, and  Xiaoli Li*
-#### This work is accepted for publication in IEEE Transactions on Instrumentation and Measurement (TIM-21) (Impact Factor: 4.06).
+#### IEEE Transactions on Instrumentation and Measurement (TIM-21) (Impact Factor: 4.06).
 
 ## Abstract
 <img src="model_diagram3.png" width="500">
